@@ -8,7 +8,7 @@ This repository contains three independent data science / machine learning proje
 3. [Credit Card Fraud Detection](#3-credit-card-fraud-detection)
 4. [Repository Structure](#repository-structure)
 5. [Setup & Installation](#setup--installation)
-6. [Author](#author)
+6. [Author](#ghulam-mustafa)
 
 ---
 
